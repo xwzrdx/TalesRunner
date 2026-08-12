@@ -2,6 +2,13 @@
 
 Little server emulator project for gPotato 2011 Tales Runner. All progress screenshots were taken **within the first 24 hours** of the project.
 
+
+Additionally, major client improvements were made too already such as:
+* FPS unlocked (originally locked at 62.5 FPS)
+* FOV changer
+* Native Resolution changer support
+
+
 ## Screenshots
 
 <img width="674" height="535" alt="image" src="https://github.com/user-attachments/assets/780ad7ce-0422-43b3-bb31-10270cf8d4e7" />
