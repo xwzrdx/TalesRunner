@@ -8,7 +8,7 @@ Additionally, major client improvements were made too already such as:
 * FOV changer
 * Native Resolution changer support
 * Real-time race position tags above players in a race (1ST, 2ND, 3RD)
-
+* Changed the client's time calculator to use the player's local windows machine time instead of a fixed US timezone (this will show the correct last login time values to the minute.)
 
 ## Screenshots
 
