@@ -15,4 +15,5 @@ Additionally, major client improvements were made too already such as:
 <img width="1598" height="635" alt="image" src="https://github.com/user-attachments/assets/7068bd1b-ccfe-4a68-97e2-50114f494683" />
 <img width="554" height="457" alt="image" src="https://github.com/user-attachments/assets/33741a57-4367-46ff-bb1f-999bb8ca0193" />
 <img width="335" height="350" alt="image" src="https://github.com/user-attachments/assets/636e4def-739c-48f5-b52d-87bc1aa0b51e" />
+<img width="501" height="375" alt="image" src="https://github.com/user-attachments/assets/baac314d-87b0-492b-ab68-3f4256068796" />
 
